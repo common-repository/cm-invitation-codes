@@ -4,7 +4,7 @@ Contributors: CreativeMindsSolutions
 Donate link: https://www.cminds.com/
 Tags: registration form, login form, User Registration, registration, invitation code
 Requires at least: 5.4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 2.4.7
 Requires PHP: 5.2.4
 License: GPLv2 or later
